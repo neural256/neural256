@@ -1,9 +1,11 @@
 # Hi, I'm Francis 👋
+MSc Math interested in Machine Learning, math and software development.
 
-MSc Computational Math student interested in Deep Learning | Natural Language Processing (NLP) | Computer Vision | Machine Learning | PyTorch | Python | Transformer Architectures | Scientific Computing | Computational Mathematics | Mathematical Modelling | MATLAB | Android Development | Kotlin | Django | PostgreSQL
-
-## Interests
+## Skills
 - Deep Learning
+- Optimization theory
+- Statistics
+- Probability theory
 - Natural Language Processing
 - Computer Vision
 - Scientific Computing
