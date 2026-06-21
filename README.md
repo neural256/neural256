@@ -9,7 +9,8 @@ MSc Math interested in Machine Learning, math and software development.
 - Natural Language Processing
 - Computer Vision
 - Scientific Computing
-- Android Development
+- Android and web Development
+- PDEs
 
 ## Tools
 Python, PyTorch, MATLAB, Kotlin, Java, Git, GitHub
