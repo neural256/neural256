@@ -1,5 +1,5 @@
 # Hi, I'm Francis 👋
-MSc Math interested in Machine Learning, math and software development.
+MSc Math interested in Machine Learning and mathematical analysis.
 
 ## Skills
 - Deep Learning Architectures
